@@ -211,3 +211,28 @@ align-content: end;
   "desks";
   }
 }
+.hideMe1 {
+  background-color: white;
+  height: 200px;
+  width: 500px;
+}
+.hideMe2 {
+  background-color: white;
+  height: 200px;
+  width: 500px;
+}
+.hideMe3 {
+  background-color: white;
+  height: 200px;
+  width: 1010px;
+}
+.hideMe4 {
+  background-color: white;
+  height: 400px;
+  width: 500px;
+}
+.hideMe5 {
+  background-color: white;
+  height: 200px;
+  width: 1520px;
+}
